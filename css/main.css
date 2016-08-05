@@ -1,0 +1,23 @@
+.bg-imagen {
+	background-image: url("../img/home/dance_1.jpg");
+	height: 480px;
+}
+.bg-textura {
+	background-image: url("../img/texturas/textura_2.jpg");
+	height: 400px;	
+}
+.bg-img-doble {
+	background-image: url("../img/home/instructor_4.jpg"), 
+	url("../img/home/profesor_9.jpg");
+	background-position: left top, right top;
+	background-repeat: no-repeat;
+	background-size: 50% 100%;
+	height: 300px;
+}
+h2 {
+	margin-top: 7%;
+}
+iframe {
+	width: 100%;
+	height: 350px;
+}

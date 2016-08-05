@@ -1,0 +1,25 @@
+.bg-c1{
+	background-image: url("../img/clases/ballet.jpg");
+}
+.bg-c2 {
+	background-image: url("../img/clases/breakdance.jpg");
+}
+.bg-c3 {
+	background-image: url("../img/clases/lirical-jazz.jpg");	
+}
+.bg-c4{
+	background-image: url("../img/clases/arabe.jpg");
+}
+.bg-c5 {
+	background-image: url("../img/clases/little.jpg");
+}
+.bg-c6 {
+	background-image: url("../img/clases/yoga.jpg");	
+}
+.alto-500 { 
+	height: 500px; 
+}
+.cuadrito {
+	margin-top: 50%;
+	margin-left: 25%;
+}

@@ -1,0 +1,15 @@
+.bg-blog-1 {
+	background-image: url("../img/blog/blog1.jpg");
+}
+.bg-blog-2{
+	background-image: url("../img/blog/profesor_5.jpg");	
+}
+.bg-blog-3{
+	background-image: url("../img/blog/instructor_1.jpg");	
+}
+.h-250 {
+	height: 250px;
+}
+.col-9 {
+	padding: 2% 5%;
+}
